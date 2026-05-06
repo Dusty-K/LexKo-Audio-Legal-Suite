@@ -4,3 +4,4 @@ pyloudnorm
 pandas
 numpy
 Pillow
+mutagen
