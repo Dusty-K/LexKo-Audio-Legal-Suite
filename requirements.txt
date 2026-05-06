@@ -1,0 +1,6 @@
+streamlit
+pydub
+pyloudnorm
+pandas
+numpy
+Pillow
