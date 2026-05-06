@@ -1,8 +1,12 @@
+
 streamlit
+librosa
+numpy
+opencv-python-headless
+matplotlib
+soundfile
+Pillow
 pydub
 pyloudnorm
 pandas
-numpy
-Pillow
 mutagen
-ffmpeg
