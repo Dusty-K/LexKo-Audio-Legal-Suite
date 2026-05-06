@@ -508,7 +508,7 @@ with col_u1:
 
 with col_u2:
     img_file = st.file_uploader(
-        "🖼 Spectrogram Image",
+        "🖼️ Spectrogram Image",
         type=["png", "jpg", "jpeg"],
         help="Upload an existing spectrogram PNG/JPG"
     )
