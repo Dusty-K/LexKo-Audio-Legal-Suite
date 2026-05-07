@@ -1,7 +1,7 @@
-
 streamlit
 librosa
 numpy
+scipy
 opencv-python-headless
 matplotlib
 soundfile
@@ -10,3 +10,4 @@ pydub
 pyloudnorm
 pandas
 mutagen
+
